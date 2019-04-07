@@ -1,0 +1,159 @@
+2qKuCz_X4ec
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1 10
+u 1
+u 1
+u 1
+u 1
+m 2
+u 1
+m 2
+u 1 20
+m 1
+r 1
+l 2
+r 1
+l 1
+r 1
+m 1
+u 1
+m 1
+u 2 32
+m 4
+r 1
+l 1
+r 1
+l 1 40
+r 1
+m 1
+l 1 43
+r 1
+m 3 47
+l 1
+m 1
+l 1
+m 1
+l 1
+m 1
+l 1
+m 1 55
+u 1
+u 1
+m 1
+u 1
+u 1 60
+m 2
+u 1
+m 1
+u 1
+m 1
+u 1 67
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1 74
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1 80
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1 86
+r 2
+l 2
+r 2
+l 2 90
+r 2
+l 2
+u 1
+u 1
+u 1
+u 1
+u 1
+u 1 100
+r 2
+l 2
+r 2
+l 2
+l 1
+r 1 110
+r 1
+l 1
+r 1
+m 1
+u 1
+l 1
+u 1
+l 1
+u 1
+l 1 120
+m 1
+u 1
+u 1
+m 1
+u 1
+u 1
+u 1
+u 1
+m 1
+u 1 130
+m 1
+u 1
+m 1
+u 1
+r 1
+l 1
+r 1
+r 1
+l 1
+m 1 140
+l 1
+u 1
+l 1
+u 1
+l 1
+u 1
+l 1
+m 1
+u 1
+u 1 150
+r 1
+u 1
+u 1
+u 1
+u 1
+u 1
+m 1
+u 1
+m 1
+u 1 160
+u 1
+u 1
+m 1
+u 1
+m 1
+u 1
+m 1
+u 1
+u 1
+m 1 170
+u 1
+m 1
+r 1
+u 1

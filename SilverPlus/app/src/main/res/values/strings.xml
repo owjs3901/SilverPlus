@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Silver Plus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="you_key">AIzaSyDiHdowsnLjnHOPB5o9Gbk-nbiT1zxylkk</string>
+    <string name="side1">메인 메뉴</string>
+    <string name="side2">건강변화기록</string>
+    <string name="side3">공지/이벤트</string>
+    <string name="side4">알림</string>
+    <string name="side5">카드뉴스</string>
+    <string name="side6">눈차크 위치</string>
+
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/side1"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/side1" />
+        <item
+            android:id="@+id/side2"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="@string/side2"
+            android:fontFamily="@font/font"
+            />
+        <item
+            android:id="@+id/side3"
+            android:icon="@android:drawable/ic_menu_report_image"
+            android:title="@string/side3" />
+        <item
+            android:id="@+id/side4"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="@string/side4" />
+        <item
+            android:id="@+id/side5"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/side5" />
+        <item
+            android:id="@+id/side6"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="운동 선택" />
+        <item
+            android:id="@+id/side7"
+            android:icon="@android:drawable/ic_menu_rotate"
+            android:title="블루투스" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="공유" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="보내기" />
+        </menu>
+    </item>
+
+</menu>
